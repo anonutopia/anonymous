@@ -5,7 +5,7 @@ import (
 )
 
 const (
-	DBNAME = "kdn.db"
+	DBNAME = "anon.db"
 
 	TYPE_BLOCKED    = 1
 	TYPE_DRIVER     = 2
